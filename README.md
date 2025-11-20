@@ -45,10 +45,11 @@ I am a **Programmer** and **CyberSec Enthusiast** with a high passion for techno
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
----
+
 ## 🔥 Current Focus
 
 - 🔐 **Cybersecurity & Ethical Hacking**
 - 💻 **Full-Stack Development**
 - 🐧 **Linux System Administration**
 - 🌐 **Networking**
+---
