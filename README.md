@@ -4,11 +4,13 @@
 📍 **Finland** 🇫🇮  
 
 I am a **Programmer** and **CyberSec Enthusiast** with a high passion for technology and security.
+
 ---
 
 ## 🛡️ Cybersecurity
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/session1337.png)](https://tryhackme.com/p/session1337)
+
 ---
 
 ## 💻 Technologies & Skills
