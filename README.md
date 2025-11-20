@@ -4,7 +4,6 @@
 📍 **Finland** 🇫🇮  
 
 I am a **Programmer** and **CyberSec Enthusiast** with a high passion for technology and security.
-
 ---
 
 ## 🛡️ Cybersecurity
